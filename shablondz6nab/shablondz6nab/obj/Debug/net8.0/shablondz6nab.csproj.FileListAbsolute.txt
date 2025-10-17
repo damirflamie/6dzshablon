@@ -1,0 +1,14 @@
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\bin\Debug\net8.0\shablondz6nab.exe
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\bin\Debug\net8.0\shablondz6nab.deps.json
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\bin\Debug\net8.0\shablondz6nab.runtimeconfig.json
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\bin\Debug\net8.0\shablondz6nab.dll
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\bin\Debug\net8.0\shablondz6nab.pdb
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\shablondz6nab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\shablondz6nab.AssemblyInfoInputs.cache
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\shablondz6nab.AssemblyInfo.cs
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\shablondz6nab.csproj.CoreCompileInputs.cache
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\shablondz6nab.dll
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\refint\shablondz6nab.dll
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\shablondz6nab.pdb
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\shablondz6nab.genruntimeconfig.cache
+C:\Users\dmflame\source\repos\shablondz6nab\shablondz6nab\obj\Debug\net8.0\ref\shablondz6nab.dll
