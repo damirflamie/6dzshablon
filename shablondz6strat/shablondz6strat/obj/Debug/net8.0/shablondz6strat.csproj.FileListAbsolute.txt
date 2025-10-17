@@ -1,0 +1,14 @@
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\bin\Debug\net8.0\shablondz6strat.exe
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\bin\Debug\net8.0\shablondz6strat.deps.json
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\bin\Debug\net8.0\shablondz6strat.runtimeconfig.json
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\bin\Debug\net8.0\shablondz6strat.dll
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\bin\Debug\net8.0\shablondz6strat.pdb
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\shablondz6strat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\shablondz6strat.AssemblyInfoInputs.cache
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\shablondz6strat.AssemblyInfo.cs
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\shablondz6strat.csproj.CoreCompileInputs.cache
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\shablondz6strat.dll
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\refint\shablondz6strat.dll
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\shablondz6strat.pdb
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\shablondz6strat.genruntimeconfig.cache
+C:\Users\dmflame\source\repos\shablondz6strat\shablondz6strat\obj\Debug\net8.0\ref\shablondz6strat.dll
